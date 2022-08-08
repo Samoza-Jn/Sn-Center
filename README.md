@@ -1,2 +1,5 @@
 # Sn-Center
-Todo
+Un nuevo peldaño, el siguiente paso.
+
+Equilibrio ambiental como social.
+
